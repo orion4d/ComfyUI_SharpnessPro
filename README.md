@@ -107,6 +107,7 @@ Ce nœud accentue ou atténue les **détails très fins** et les textures de sur
 ## Licence
 
 Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
 ---
 <div align="center">
 
