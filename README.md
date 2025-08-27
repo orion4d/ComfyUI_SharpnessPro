@@ -27,7 +27,6 @@ Le pack est divisé en deux catégories :
     cd ComfyUI/custom_nodes/
     git clone https://github.com/orion4d/ComfyUI_SharpnessPro.git
     ```
-    *(N'oubliez pas de remplacer `VOTRE_NOM_UTILISATEUR/SharpnessPro.git` par l'URL réelle de votre dépôt)*
 4.  Redémarrez ComfyUI.
 
 ---
@@ -108,3 +107,16 @@ Ce nœud accentue ou atténue les **détails très fins** et les textures de sur
 ## Licence
 
 Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+---
+<div align="center">
+
+<h3>🌟 <strong>Show Your Support</strong></h3>
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
+<p><strong>by Orion4D</strong></p>
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+</div>
+
