@@ -6,8 +6,7 @@ Le pack est divisé en deux catégories :
 *   **SharpnessPro/Sharpen (Netteté)** : Pour l'accentuation des détails fins.
 *   **SharpnessPro/Tone (Tonalité)** : Pour l'ajustement du contraste local (Clarté, Texture).
 
-
-*(Remplacez cette image par une capture d'écran de votre workflow)*
+<img width="575" height="1145" alt="image" src="https://github.com/user-attachments/assets/d78a1dab-65e8-4296-883c-8d933c3c61bf" />
 
 ## ✨ Installation
 
@@ -26,7 +25,7 @@ Le pack est divisé en deux catégories :
 3.  Clonez le dépôt dans le dossier `custom_nodes` :
     ```bash
     cd ComfyUI/custom_nodes/
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/SharpnessPro.git
+    git clone https://github.com/orion4d/ComfyUI_SharpnessPro.git
     ```
     *(N'oubliez pas de remplacer `VOTRE_NOM_UTILISATEUR/SharpnessPro.git` par l'URL réelle de votre dépôt)*
 4.  Redémarrez ComfyUI.
